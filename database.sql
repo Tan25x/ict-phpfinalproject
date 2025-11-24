@@ -1,0 +1,8 @@
+CREATE DATABASE crudphp;
+USE crudphp;
+
+CREATE TABLE datainput (
+    nis VARCHAR(20) NOT NULL PRIMARY KEY,
+    nama VARCHAR(100) NOT NULL,
+    alamat VARCHAR(255) NOT NULL
+);
