@@ -1,8 +1,8 @@
 # PHP Final Project - Simple CRUD Application
 
-A beginner-friendly PHP web application that demonstrates basic CRUD (Create, Read, Update, Delete) operations with a MySQL database.
+A PHP web application that demonstrates basic CRUD (Create, Read, Update, Delete) operations with a MySQL database.
 
-## 🚀 What This Project Does
+## 🤓 What This Project Does
 
 This is a simple student data management system where you can:
 - Add new student records (NIS, Name, Address)
@@ -10,14 +10,14 @@ This is a simple student data management system where you can:
 - Update existing student information
 - Delete student records
 
-## 📋 Prerequisites
+## 🤓 Prerequisites
 
 Before you start, make sure you have:
 - **XAMPP** or **Laragon** installed (includes PHP, MySQL, Apache)
 - **Web Browser** (Chrome, Firefox, etc.)
 - **Code Editor** (VS Code recommended)
 
-## 🛠️ Installation Guide for Beginners
+## 🤓 Installation Guide
 
 ### Step 1: Download the Project
 1. Go to the GitHub repository: https://github.com/Tan25x/ict-phpfinalproject.git
@@ -67,7 +67,7 @@ Open your web browser and go to:
 - `http://localhost/phpfinal/` (for XAMPP)
 - `http://localhost/phpfinal/` (for Laragon)
 
-## 📁 Project Files Explained
+## 🤓 Project Files Explained
 
 | File Name | What It Does |
 |-----------|--------------|
@@ -80,7 +80,7 @@ Open your web browser and go to:
 | `connection.php` | Database connection settings |
 | `database.sql` | Database structure and initial data |
 
-## 🎯 How to Use the Application
+## 🤓 How to Use the Application
 
 ### Adding New Students
 1. Open `index.php`
@@ -106,7 +106,7 @@ Open your web browser and go to:
 2. Click "Delete" next to the student you want to remove
 3. Confirm the deletion in the popup dialog
 
-## 🔧 Troubleshooting Common Issues
+## 🤓 Troubleshooting Common Issues
 
 ### "Connection Failed" Error
 - Make sure Apache and MySQL are running
@@ -126,46 +126,3 @@ Open your web browser and go to:
 - Check PHP error logs
 - Make sure all PHP files are properly saved
 - Verify file permissions
-
-## 🎨 Features Included
-
-- ✅ Responsive design (works on mobile and desktop)
-- ✅ Data validation (prevents empty submissions)
-- ✅ Confirmation dialogs for destructive actions
-- ✅ Clean, user-friendly interface
-- ✅ Easy navigation between pages
-- ✅ Secure database operations
-
-## 📚 What You'll Learn
-
-This project teaches:
-- Basic PHP syntax and concepts
-- Database connectivity with MySQLi
-- HTML form handling
-- SQL operations (INSERT, SELECT, UPDATE, DELETE)
-- Basic web security practices
-- File organization and structure
-
-## 🤝 Contributing
-
-If you want to improve this project:
-1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🆘 Need Help?
-
-If you're stuck:
-1. Check the troubleshooting section above
-2. Make sure all prerequisites are installed
-3. Verify your database connection
-4. Check browser console for errors
-5. Review PHP error logs
-
-Happy coding! 🎉
